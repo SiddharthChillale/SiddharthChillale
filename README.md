@@ -1,34 +1,28 @@
-<h2 align="center">👋 Hi ! I'm Siddharth Chillale .</h2>
+<h2 align="center">👋 Hi ! I'm Siddharth Chillale</h2>
 <p align="center">
   <a href="https://siddharthchillale.github.io/">Website</a> •
   <a href="https://twitter.com/TheLongRaven">Twitter</a>
 </p>
 
 
-- :water_buffalo: I’m currently pursuing my Masters in Computer Science at University at Buffalo
-- :camera: My topics of interest(but not limited to) are 
-  * Computer Graphics
-  * Neural Networks and Machine Learning
-  * Web and networking 
-  * Low-level software systems and optimization.
+- :water_buffalo: I finsihed my Masters in Computer Science at University at Buffalo in 2023.
+I specialize in building scalable and efficient backend systems, primarily using JavaScript, Node.js, and Go. My expertise lies in database management with MySQL and PostgreSQL, and I leverage AWS cloud services to deploy and manage robust applications. My focus is on creating high-performance RESTful APIs and cloud-native solutions tailored to business needs.
 
-- 💬 Ask me about **Graphics, AI and GameDev**
-- 📫 You can reach me via email (siddharth.chillale[at]gmail[dot]com) or on twitter [@TheLongRaven](https://twitter.com/TheLongRaven)
-
+- 📫 You can reach me via email (sidcp.work[at]gmail[dot]com) 
 -------
 
 **📝 Latest Blog Posts**
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START 
 - [Ray Tracing in One Weekend](https://siddharthchillale.github.io/projects/rt_one_weekend/)
 - [Rendering Pipeline of Unreal Engine](https://siddharthchillale.github.io/blog/unreal_rendering/)
 - [Ray Tracing: The Next Week](https://siddharthchillale.github.io/projects/rt_next_week/)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 -------
 
-📊 **Working Projects Lists**
-<!--START_SECTION:waka-->
+<!-- 📊 **Working Projects Lists** -->
+<!--START_SECTION:waka
 - &check; - 2D C++ game development [link](https://github.com/SiddharthChillale/snek_game)
   - Wrote a C++ game from scratch featuring a snake who can eat food to grow longer and snacks to move faster. Used WinAPI for window creation and coloring graphics. Implemented primitives like lines, triangles and quads. 
 - &check; - Software Ray Tracer [link](https://github.com/SiddharthChillale/Ray_Tracer)
@@ -37,9 +31,8 @@
   - Developed a 3D renderer using DirectX for deferred rendering. Features dynamic Phong shading with specular highlights, mesh loading, texture mapping with mipmaps, frustum culling. 
 - - [ ] - Realtime DirectX Raytracing (limited by hardware)
 - - [ ] - Neural Rendering
-
-<!--END_SECTION:waka-->
-
+END_SECTION:waka-->
+<!--
 -------
 
 :books: **What I'm reading currently**
