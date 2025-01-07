@@ -5,8 +5,8 @@
 </p>
 
 
-- :water_buffalo: I finsihed my Masters in Computer Science at University at Buffalo in 2023.
-I specialize in building scalable and efficient backend systems, primarily using JavaScript, Node.js, and Go. My expertise lies in database management with MySQL and PostgreSQL, and I leverage AWS cloud services to deploy and manage robust applications. My focus is on creating high-performance RESTful APIs and cloud-native solutions tailored to business needs.
+- :water_buffalo: I finished my Masters in Computer Science at University at Buffalo in 2023.
+I specialize in building scalable and efficient backend systems, primarily using Javascript(Node.js, Vue), Python(Django) and Go. My expertise lies in database management with MySQL and PostgreSQL, and I leverage AWS cloud services to deploy and manage robust applications. My focus is on creating high-performance RESTful APIs and cloud-native solutions tailored to business needs.
 
 - 📫 You can reach me via email (sidcp.work[at]gmail[dot]com) 
 -------
