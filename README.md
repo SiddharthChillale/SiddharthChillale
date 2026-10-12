@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi ! I'm Siddharth Chillale</h2>
 <p align="center">
-  <a href="https://siddharthchillale.github.io/">Website</a> •
-  <a href="https://twitter.com/TheLongRaven">Twitter</a>
+  <a href="https://siddharth.chillale.com">Website</a> •
+  <a href="https://x.com/Amoraveil">Twitter</a>
 </p>
 
 
